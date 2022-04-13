@@ -3,6 +3,7 @@
   author={Mandal, Avirup and Chaudhuri, Parag and Chaudhuri, Subhasis},
   volume = {5},
   number = {1},
+  article = {5773229},
   month = may,
   booktitle={Proceddings of the ACM on Computer Graphics and Interactive Techniques},
   series = {I3D 2022},
