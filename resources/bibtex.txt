@@ -1,6 +1,11 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+@inproceedings{mandal2022virtualsculpt,
+  title={Interactive Physics-Based Virtual Sculpting with Haptic Feedback},
+  author={Mandal, Avirup and Chaudhuri, Parag and Chaudhuri, Subhasis},
+  volume = {5},
+  number = {1},
+  month = may,
+  booktitle={Proceddings of the ACM on Computer Graphics and Interactive Techniques},
+  series = {I3D 2022},
+  year={2022},
+  doi = {10.1145/3522611},
 }
